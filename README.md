@@ -7,6 +7,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
+<img src="assets\image.png" alt="Header Image" width="600"/>
+
+
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=vinayak.neural-network-scratch)](https://github.com/vinayak/neural-network-scratch)
 
 *A simple, educational implementation of a neural network built from scratch using only NumPy*
